@@ -1,0 +1,9 @@
+<h1>Nope App</h1>
+
+<p>Nopes you've received:</p>
+
+<ul id="nopes-list"></ul>
+
+<label for="username">Username: </label>
+<input type="text" class="text" value="" name="username" id="username">
+<input type="button" value="Submit Nope!" name="" id="submit-button">
