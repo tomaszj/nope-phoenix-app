@@ -53,10 +53,8 @@ config :logger, level: :info
 # Alternatively, you can configure exactly which server to
 # start per endpoint:
 #
-config :nope_app, NopeApp.Endpoint,
-  secret_key_base: System.get_env("SECRET_KEY_BASE")
 #
 
 # Finally import the config/prod.secret.exs
 # which should be versioned separately.
-# import_config "prod.secret.exs"
+import_config "prod.secret.exs"
