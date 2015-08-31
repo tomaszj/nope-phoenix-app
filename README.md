@@ -1,5 +1,11 @@
 # NopeApp
 
+Simple application that allows you to send "Nope!" message to other logged in user. Uses Phoenix framework and as such uses Elixir and JavaScript.
+
+Working sample here: https://afternoon-mesa-3345.herokuapp.com/
+
+# Start
+
 To start your Phoenix app:
 
   1. Install dependencies with `mix deps.get`
